@@ -13,8 +13,8 @@ python main.py
 ## Demo
 
 <div align=left>
-**Use the API to show the interesting position of Hand**   
-<br/><br/>
+
+**Use the API to show the interesting position of Hand** 
   
 <div align=center>
 <img src="https://github.com/YIN95/LeapMotion/blob/master/Demo/demo1.png?raw=true" width = 50% height = 50% />  
@@ -22,6 +22,7 @@ python main.py
 <br/><br/>
 
 <div align=left>
+  
 **Use the sdk and main.py to show the Binocular infrared camera and coordinates**
 <br/><br/> 
   
