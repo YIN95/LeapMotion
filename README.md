@@ -21,9 +21,9 @@ python main.py
 <br/><br/>
 
 <div align=left>
-  
+
 **Use the sdk and main.py to show the Binocular infrared camera and coordinates**
-<br/><br/> 
+
 <div align=center>
 <img src="https://raw.githubusercontent.com/YIN95/LeapMotion/master/Demo/demo2.png" width = 60% height = 60% />
 <br/><br/>
