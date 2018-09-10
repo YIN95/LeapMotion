@@ -5,6 +5,6 @@ Use LeapMotion to detect hand and the position of hand.
 
 '''python
 
->> python main.py
+python main.py
 
 '''
