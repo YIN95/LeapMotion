@@ -10,6 +10,6 @@ python main.py
 
 ```
 
+![image](https://github.com/YIN95/LeapMotion/blob/master/Demo/demo1.png?raw=true)
+![image](https://raw.githubusercontent.com/YIN95/LeapMotion/master/Demo/demo2.png)
 
-https://github.com/YIN95/LeapMotion/blob/master/Demo/demo1.png?raw=true    
-https://raw.githubusercontent.com/YIN95/LeapMotion/master/Demo/demo2.png
